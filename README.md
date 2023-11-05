@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Syed Israr Ahmed</h1>
 <h3 align="center">Currently Studying in GHRCEM</h3>
 <img align="right" alt="coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" >
-- 🌱 I’m currently learning **MERN Stack Development and DSA**
+- 🌱 I’m currently learning MERN Stack Development and DSA
 
 - 👨‍💻 All of my projects are available at [Github/syed1israr](https://github.com/syed1israr)
 
-- 💬 Ask me about **HTML,CSS ,JS, REACT, C , C++**
+- 💬 Ask me about HTML,CSS ,JS, REACT, C , C++
 
 - 📫 How to reach me **syedfaraz173@gmail.com**
 
